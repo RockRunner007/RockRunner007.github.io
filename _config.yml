@@ -55,26 +55,26 @@ skills-list:
     - Git    
 
 # do you want to display a projects section? true or false
-projects: false
+projects: true
 
 # add your projects here
 project-list:
-    Eve:
-        name: Eve
-        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
-        url: https://github.com/jibolash/Eve
-    World-Cup-History:
-        name: World Cup  History
-        description: npm package for FIFA World cup historical data
-        url: https://github.com/jibolash/world-cup-history
-    Tweeter:
-        name: Tweeter
-        description: A Twitter inspired web application built with Angular 5
-        url: https://tweetermum.herokuapp.com
-    Transcend:
-        name: Transcend
-        description: An android app for meditation and mindfulness
-        url: https://github.com/Khosbayar/Transcend
+    SM_Automation:
+        name: Secrets Management Automation
+        description: Python project for helping with the operational side of secrets management
+        url: https://github.com/RockRunner007/SM_Automation
+    SCA_Automation:
+        name: Software Component Analysis Automation
+        description: Python project for helping with the operational side of software component management
+        url: https://github.com/RockRunner007/SCA_Automation
+    SAST_Automation:
+        name: Static Application Security Testing Automation
+        description: Python project for helping with the operational side of sast management
+        url: https://github.com/RockRunner007/SAST_Automation
+    DAST_Automation:
+        name: Dynamic Application Security Testing Automation
+        description: Python project for helping with the operational side of dast management
+        url: https://github.com/RockRunner007/DAST_Automation
 
 
 # do you want to display the theme attribution? true or false
