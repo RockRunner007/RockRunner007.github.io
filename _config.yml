@@ -61,7 +61,7 @@ projects: true
 project-list:
     Security-Programs:
         name: Security Programs
-        descriptions: Collection of programs for a DevOps team with security top of mind
+        description: Collection of programs for a DevOps team with security top of mind
         url: https://github.com/RockRunner007/Security-Programs
     SM_Automation:
         name: Secrets Management Automation
