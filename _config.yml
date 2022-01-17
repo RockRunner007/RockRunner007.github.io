@@ -59,10 +59,14 @@ projects: true
 
 # add your projects here
 project-list:
-    Security-Programs:
+    Security_Programs:
         name: Security Programs
         description: Collection of programs for a DevOps team with security top of mind
         url: https://github.com/RockRunner007/Security-Programs
+    Security_Automation:
+        name: Security Automation 
+        description: Role definition and responsible team
+        url: https://github.com/RockRunner007/security-automation
     SM_Automation:
         name: Secrets Management Automation
         description: Python project for helping with the operational side of secrets management
